@@ -3,9 +3,9 @@
 A continuación, se documentan y compilan los datos de las encuestas intercensales y del Censo de Población y Vivienda 2020, obtenidos del sitio oficial del INEGI. Con el fin de concentrar toda la información en un mismo sitio y, asimismo, poder utilizarla más adelante en la identificación y análisis de las variables de interés.
 
 ## 🖥️🧠 Material de apoyo
-- 🗺️ INEGI (_principal fuente de documentación)
-- 📊 Excel
-- 📖 Lector de PDF
+- 🗺️ INEGI (_principal fuente de documentación_)
+- 📊 Excel (_lector de tablas_)
+- 📖 Lector de PDF (_lector de documentos_)
 
 ## 🗃️ Instrucciones para su uso
 - 🔎 Dar click a la carpeta CPV en caso de querer ver la documentación del Censo Poblacional y de Vivienda 2020
