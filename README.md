@@ -9,7 +9,7 @@ A continuación, se documentan y compilan los datos de las encuestas intercensal
 
 ## 🗃️ Instrucciones para su uso
 - 🔎 Dar click a la carpeta CPV en caso de querer ver la documentación del Censo Poblacional y de Vivienda 2020
-- 🔎 Hacer click en la carpeta EIC si se desea ver la documentación de las Encuestas Intercensales. Dentro de ella se encuentran dos subcarpetas con los datos de las encuestas de 2015 y 2025; según la información que se busque analizar, seleccionar el año que mejor se ajuste.
+- 🔎 Hacer click en la carpeta EIC si se desea ver la documentación de las Encuestas Intercensales. Dentro de ella se encuentran dos subcarpetas con los datos de las encuestas de 2015 y 2025, según la información que se busque analizar, seleccionar el año que mejor se ajuste.
 
 
 
