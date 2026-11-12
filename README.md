@@ -14,7 +14,7 @@ A continuación, se documentan y compilan los datos de las encuestas intercensal
 
 
 ## 👥 Colaboradores 
-_ Luis Felipe Jiménez & Saori Kinari López V._
+**Luis Felipe Jiménez & Saori Kinari López V.**
 
 ## 🏛️ Institución a cargo 
 _Comisión Nacional de Población (CONAPO)_ 
